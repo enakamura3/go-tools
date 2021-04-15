@@ -1,4 +1,4 @@
-package utils
+package encode
 
 import (
 	"io/ioutil"
