@@ -1,4 +1,4 @@
-module github.com/enakamura3/go-utils
+module github.com/enakamura3/go-tools
 
 go 1.16
 
